@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>[B][COLOR aquamarine]:::[/COLOR][COLOR white]BLUEPLAY[/COLOR][COLOR aquamarine]:::[/COLOR][/B]</name>
+<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/LOGO.png</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+<info>Bem-vindo ao BluePlay! Desfrute de uma experiência incrível com uma vasta seleção de filmes, séries, animes, desenhos e muito mais. Navegue e encontre tudo o que você adora, em um único lugar como:
+
+[B][COLOR green]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]
+[B][COLOR green]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]
+[B][COLOR green]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]
+[B][COLOR green]●[/COLOR] [COLOR white]RADIO[/COLOR][/B]
+[B][COLOR green]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]
+[B][COLOR green]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]
+[B][COLOR green]●[/COLOR] [COLOR white]DORAMAS[/COLOR][/B]
+[B][COLOR green]●[/COLOR] [COLOR white]NOVELAS[/COLOR][/B]
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+</channel>
+    
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
+        <thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/TV%20AO%20VIVO.png</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+        <info>Assista a uma seleção de canais ao vivo organizados por categorias, como Abertos, Esportes, Filmes & Séries, Notícias, Infantil e Música. Navegue facilmente por uma interface intuitiva e acesse transmissões de alta qualidade com apenas um clique entretenimento ao vivo direto no seu Kodi!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/BluePlay/TV%20AO%20VIVO/Menu_TV.xml</externallink>
+    </channel>
+    
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
+        <thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FILMES.png</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+        <info>Explore um vasto catálogo de filmes com os melhores lançamentos, clássicos inesquecíveis e produções de diversos gêneros. Encontre desde ação eletrizante até dramas emocionantes, tudo organizado para facilitar sua navegação. Escolha seu filme favorito e aproveite!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/BluePlay/FILMES/Menu_Filmes.xml</externallink>
+    </channel>
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
+        <thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/S%C3%89RIES.png</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+        <info>Explore uma seleção de séries envolventes, com histórias que vão te prender do começo ao fim. De comédias leves a tramas intensas, temos séries imperdíveis para todos os gostos. Navegue e encontre sua próxima maratona!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://raw.githubusercontent.com/BluePlay8486/BluePlayHD/refs/heads/main/ARES%20%C3%81REA%20DE%20FILMES%20E%20S%C3%89RIES/S%C3%89RIES/S%C3%89RIES.XML</externallink>
+    </channel>
+
+
+<channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]RÁDIO[/COLOR][/B]</name>
+        <thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/R%C3%81DIO.png</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+        <info>Sintonize em uma variedade de estações de rádio, com músicas, notícias, podcasts e muito mais. De hits atuais a clássicos, encontre a estação perfeita para o seu humor e curta sua programação favorita a qualquer hora!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/R%C3%81DIO/Menu_Radio.xml</externallink>
+    </channel>
+
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
+        <thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/DESENHOS.png</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+        <info>Entre no universo dos desenhos animados com uma seleção para todas as idades. De aventuras divertidas a histórias encantadoras, encontre seus desenhos favoritos e curta a magia da animação a qualquer momento!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/DESENHOS/DESENHOS.txt</externallink>
+    </channel>
+
+<channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
+        <thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/ANIMES.png</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+        <info>Explore um mundo de animes com diversas opções, desde aventuras cheias de ação até enredos emocionantes e profundos. De títulos populares a clássicos, encontre o anime perfeito para você e embarque em uma jornada única!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/BluePlay/ANIMES/Menu_Animes.xml</externallink>
+    </channel>
+
+<channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]DORAMAS[/COLOR][/B]</name>
+        <thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/DORAMAS.png</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+        <info>Mergulhe no universo dos dramas asiáticos com o melhor do entretenimento coreano, japonês, chinês e tailandês! No menu Dorama, você encontrará uma seleção de séries emocionantes, desde os romances mais envolventes até os dramas cheios de ação e mistério. Descubra novas histórias, acompanhe seus atores favoritos e aproveite legendas de qualidade para uma experiência imersiva.
+            
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/AnimeSoul8585/Reposit-rio-AnimeSoul/raw/refs/heads/main/Pesquisar.xml</externallink>
+    </channel>
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS[/COLOR][/B]</name>
+        <thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/NOVELAS.png</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+        <info>Reviva as tramas emocionantes das novelas, com histórias de amor, drama e reviravoltas imperdíveis. Explore uma seleção de novelas clássicas e atuais, e acompanhe os capítulos que marcaram gerações.
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR blue]TeamBluePlay@gmail.com[/COLOR]</info>
+        <externallink>https://github.com/BluePlay8486/BluePlay/raw/refs/heads/main/TESTES%20BLUEPLAY/Menu_items.xml</externallink>
+    </channel>
+
+<channel>
+        <name>[B][COLOR aquamarine]●[/COLOR] [COLOR white]PEDIDOS DE[/COLOR][COLOR aquamarine] USUÁRIOS[/COLOR][/B]</name>
+        <thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/PEDIDOS%20USU%C3%81RIOS.png</thumbnail>
+        <fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+        <info>[COLOR aquamarine]AREAS DE PEDIDOS DE USUÁRIOS: [/COLOR]Os seus Pedidos de Filmes e Séries e etc ficam aqui faça seu pedido no Site abaixo e espere até adicionamos ao Add-on!
+
+[B][COLOR aquamarine]SITE DE PEDIDOS[/COLOR][/B]
+
+            
+[B][COLOR white]https://tinyurl.com/BluePlay-Pedidos[/COLOR][/B]</info>
+        <externallink>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Pedidos%20de%20Usu%C3%A1rios/Menu_Pedidos.xml</externallink>
+    </channel>
+
+</channels>
